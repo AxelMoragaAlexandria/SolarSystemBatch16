@@ -8,6 +8,11 @@ public class Main {
         Omnax.Star="4";
 
 
+        FeatureSun XEOn=new FeatureSun();
+        XEOn.Name="treo";
+        XEOn.size="-32432km";
+        XEOn.temp="-34449843 celsius";
+
 
 
 
